@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 200px;
+  width: 400px;
+  margin-top: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
